@@ -1,0 +1,31 @@
+# Exclude Pycharm idea
+.idea/
+
+# All data folders
+**/data/*
+
+# Add an exception for data_info_new.json, as it's necessary to decide the splits for CoOadTR
+!CoOadTR/data/data_info_new.json
+!CoOadTR/data/thumos_test_anno.pickle
+!CoOadTR/data/thumos_val_anno.pickle
+!CoOadTR/
+!CoOadTR/data/
+
+# Weight files
+*.h5
+
+# generated GIFs
+gifs/
+
+# generated charts
+charts/
+
+# runtime results
+runtimes/
+runtime_plots/
+
+# cuda config file
+cuda_config.py
+
+# All CSV files
+*.csv

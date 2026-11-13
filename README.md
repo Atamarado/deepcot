@@ -1,4 +1,12 @@
 # Official implementation for "DeepCoT: Deep Continual Transformers for Real-Time Inference on Data Streams"
+<div align="left">
+  <a href="https://arxiv.org/abs/2511.17693">
+    <img src="https://img.shields.io/badge/paper-arxiv.2511.17693-B31B1B.svg" height="20">
+  </a>
+  <a href="https://opensource.org/licenses/Apache-2.0">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" height="20">
+  </a>
+</div>
 
 This repository contains the implementation of DeepCoT, and the experiments reported in the article _DeepCoT: Deep Continual Transformers for Real-Time Inference on Data Streams_.
 
